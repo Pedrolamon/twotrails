@@ -3,7 +3,7 @@ import { Header } from "../components/header"
 import { Footer } from "../components/footer"
 import { AboutUs } from "./AboutUs"
 import { Contact } from "./Contact"
-import { Projects } from "./projects"
+import { Projects } from "./Projects"
 import { Solutions } from "./Solutions"
 
 //img
@@ -21,7 +21,7 @@ export function Index (){
                 <h1 className=" font-playfair text-6xl font-bold">TwoTrails</h1>
             </div>
             <div className="relative z-10">
-                <p className="text-xl mb-4">Escolha o caminho da inovação</p>
+                <p className="text-xl mb-4">Choose the path of innovation</p>
                 <div className="w-12 h-1 bg-white"></div>
             </div>
             </div> 
